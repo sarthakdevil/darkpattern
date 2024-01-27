@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to bottom,rgb(25, 20, 20) ,rgb(86, 81, 81),black);
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #ff0000; /* You can customize the color for headings */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* Add more styles as needed */
+h6{
+    font-size: 1em;
+    color: #ef0909bb;
+}
+.agree{
+    position: relative;
+    color: white;
+    background-color: red;
+    border: none
+}
