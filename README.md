@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  Projeto desenvolvido para a prática de HTML5 e CSS3 :smiley: :v:
+  Based on html js and css
 </p>
 
 <h3 align="center">
-  Deploy da Aplicação com Vercel:
-  <a href="https://diegolramos-netflix-clone.vercel.app/" target="_blank">ACESSE AQUI </p>
+  Deployed on vercel
+  <a href="https://darkpattern.vercel.app/" target="_blank">access website </p>
 </h3>
 
 
